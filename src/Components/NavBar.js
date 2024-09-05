@@ -9,19 +9,19 @@ const NavBar = () => {
       <div>
         <ul className="hidden md:flex">
           <li className="menuItem hover:scale-110 hover:z-50 transition-all duration-300 ease-in-out">
-            <a href="/home">Home</a>
+            <a href="mosin/home">Home</a>
           </li>
           <li className="menuItem hover:scale-110">
-            <a href="/aboutme">About Me</a>
+            <a href="mosin/aboutme">About Me</a>
           </li>
           <li className="menuItem hover:scale-110">
-            <a href="/skills">Skills</a>
+            <a href="mosin/skills">Skills</a>
           </li>
           <li className="menuItem hover:scale-110">
-            <a href="/certifications">Certifications</a>
+            <a href="mosin/certifications">Certifications</a>
           </li>
           <li className="menuItem hover:scale-110">
-            <a href="/contact">Contact Us</a>
+            <a href="mosin/contact">Contact Us</a>
           </li>
         </ul>
         {/* <img src={logo} className="sm:hidden w-[40px] h-[40px]" /> */}
@@ -38,19 +38,19 @@ const NavBar = () => {
 {toggle?
             <ul className="md:hidden absolute flex mt-8 flex-col bg-gray-200 p-2 rounded-sm">
           <li className="menuItem p-3 hover:scale-110 hover:z-50 transition-all duration-300 ease-in-out">
-            <a href="/home">Home</a>
+            <a href="mosin/home">Home</a>
           </li>
           <li className="menuItem  p-3 hover:scale-110">
-            <a href="/aboutme">About Me</a>
+            <a href="mosin/aboutme">About Me</a>
           </li>
           <li className="menuItem p-3 hover:scale-110">
-            <a href="/skills">Skills</a>
+            <a href="mosin/skills">Skills</a>
           </li>
           <li className="menuItem p-3 hover:scale-110">
-            <a href="/certifications">Certifications</a>
+            <a href="mosin/certifications">Certifications</a>
           </li>
           <li className="menuItem p-3 hover:scale-110">
-            <a href="/contact">Contact Us</a>
+            <a href="mosin/contact">Contact Us</a>
           </li>
         </ul>:null}
         </div>
