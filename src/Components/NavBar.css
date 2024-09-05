@@ -2,3 +2,6 @@
     margin-right: 25px;
     cursor: pointer;
 }
+html{
+    scroll-behavior: smooth;
+}
