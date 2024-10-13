@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mosin/static/css/main.ad602e77.css",
-    "main.js": "/mosin/static/js/main.03db46bc.js",
+    "main.css": "/mosin/static/css/main.3a22c756.css",
+    "main.js": "/mosin/static/js/main.e37cf99a.js",
     "static/media/homeImage.png": "/mosin/static/media/homeImage.3d95f6590f70693b6ba6.png",
     "static/media/contactusbg.png": "/mosin/static/media/contactusbg.763a3c4a9285409abd28.png",
     "static/media/python.png": "/mosin/static/media/python.82efb64f8698a267f8bf.png",
@@ -21,11 +21,11 @@
     "static/media/ex.png": "/mosin/static/media/ex.71e63a1d04588d0ffe9b.png",
     "index.html": "/mosin/index.html",
     "static/media/wave.svg": "/mosin/static/media/wave.e42ddec972c9ec214abc0ac6e8439ee4.svg",
-    "main.ad602e77.css.map": "/mosin/static/css/main.ad602e77.css.map",
-    "main.03db46bc.js.map": "/mosin/static/js/main.03db46bc.js.map"
+    "main.3a22c756.css.map": "/mosin/static/css/main.3a22c756.css.map",
+    "main.e37cf99a.js.map": "/mosin/static/js/main.e37cf99a.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad602e77.css",
-    "static/js/main.03db46bc.js"
+    "static/css/main.3a22c756.css",
+    "static/js/main.e37cf99a.js"
   ]
 }

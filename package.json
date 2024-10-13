@@ -1,6 +1,6 @@
 {
   "name": "Mosin-Portfolio",
-  "homepage": "https://mosin23.github.io/mosin",
+  "homepage": "https://mosin-23.github.io/mosin",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
@@ -13,7 +13,7 @@
     "lottie-react": "^2.4.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.7.0",
+    "react-router-dom": "^6.26.1",
     "react-scripts": "5.0.1",
     "react-toastify": "^10.0.5",
     "typewriter-effect": "^2.19.0",

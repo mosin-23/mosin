@@ -6,7 +6,7 @@ import './Home.css'
 import Typewriter from 'typewriter-effect';
 import Lottie from 'lottie-react'
 import Think from '../assets/think.json'
-import Resume from '../assets/rsm-2.pdf'
+import Resume from '../assets/MK-31280.pdf'
 const Home = () => {
 
   return (

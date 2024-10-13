@@ -11,8 +11,8 @@ const AboutMe = () => {
         <div className='flex flex-row justify-between absolute'>
             <img src={laptop}  className="w-[150px] md:w-[300px] mt-[-100px] " />
         </div>
-            <h1 className='text-white text-[50px] pt-[20px] font-bold text-center'>About <span className='text-[#F2EFC7] mt-10'>Me</span></h1>
-            <h1 className='w-full px-10 md:px-48 lg:px-80 mt-[50px] text-white overflow-auto break-words'>{AppText.aboutMeDescripion} </h1>
+            <h1 className='text-white text-[50px] pt-[50px] font-bold text-center'>About <span className='text-[#F2EFC7] mt-10'>Me</span></h1>
+            <h1 className='w-full px-10 md:px-24 lg:px-48 mt-[50px] text-white py-0 leading-relaxed pb-1'>{AppText.aboutMeDescripion} </h1>
         </div>
         <div className='flex flex-col md:flex-row mt-[-75px] md:px-32 '>
            {
