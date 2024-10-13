@@ -31,6 +31,6 @@ EmailJS: Enables seamless email functionality, allowing users to send messages d
 
 Live Demo
 
-You can view the live demo of the portfolio website at https://mosin23.github.io/mosin.
+You can view the live demo of the portfolio website at https://mosin-23.github.io/mosin.
 
 Feel free to explore and connect with me through the contact section if you have any questions or inquiries!
