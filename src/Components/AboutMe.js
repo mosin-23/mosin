@@ -9,10 +9,13 @@ const AboutMe = () => {
           <img src={wave}  className="w-screen absolute " />
         <div className='w-full bg-gradient-to-r from-emerald-500 to-emerald-900 h-[300px]  justify-center items-center'>
         <div className='flex flex-row justify-between absolute'>
-            <img src={laptop}  className="w-[150px] md:w-[300px] mt-[-100px] " />
+            <img src={laptop}  className="hidden lg:block lg:w-[250px]  mt-[-100px]" />
         </div>
-            <h1 className='text-white text-[50px] pt-[50px] font-bold text-center'>About <span className='text-[#F2EFC7] mt-10'>Me</span></h1>
-            <h1 className='w-full px-10 md:px-24 lg:px-48 mt-[50px] text-white py-0 leading-relaxed pb-1'>{AppText.aboutMeDescripion} </h1>
+            <h1 className='text-white lg:text-[50px] pt-[50px] font-bold text-center md:text-sm sm:text-sm'>About <span className='text-[#F2EFC7] mt-10'>Me</span></h1>
+            <h1 className="w-auto px-10 lg:text-xl lg:font-sans lg:text-justify  md:text-base sm:text-xs lg:px-48 mt-[50px] text-white py-0 leading-relaxed pb-1">
+  {AppText.aboutMeDescripion}
+</h1>
+
         </div>
         <div className='flex flex-col md:flex-row mt-[-75px] md:px-32 '>
            {

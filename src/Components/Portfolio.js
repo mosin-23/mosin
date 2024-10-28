@@ -46,12 +46,12 @@ const Portfolio = () => {
             focus:ring-violet-300 focus:bg-purple-600 focus:ring '>Java Apps</button>
              
         </div>
-        <div className='grid grid-cols-1 items-center content-center md:grid-cols-3 lg:grid-cols-3
+        <div className='grid grid-cols-1 items-center content-center md:grid-cols-3 lg:grid-cols-2
         md:px-24 lg:px-48 p-4 '>
             {portfolioList.map((item,index)=>(
                 <div className='p-2 flex flex-col m-2 rounded-lg bg-purple-100
                 transition-all ease-in-out group hover:scale-110 cursor-pointer'>
-                    <img src={item.imageUrl} className="h-[180px] object-cover rounded-lg"/>
+                    <img src={item.imageUrl} className="h-36  object-contain rounded-xl "/>
                     <h1 className='text-[14px] group-hover:scale-110 mt-2 text-center  font-bold'>{item.title}</h1>
                     <h1 className='text-[12px] text-gray-500 px-6 pb-3 text-center'>{item.desc}</h1>
                     <h1 className='text-[12px] text-gray-500 px-6 pb-3 oveflow-hidden text-blue-500 text-center' onClick={()=>{window.location.href=item.link}}>{item.link}</h1>

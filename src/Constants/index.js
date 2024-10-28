@@ -42,6 +42,14 @@ export const Certificates=[
         name:'Essentials RPA Professional',
         imageUrl:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQrucnIA6sBFm-YmCK02ktQPzs4YmnjcszIw&s',
         url:'AAESS-A360 106676701',
+        exp:'NULL',
+        link:''
+    },
+    {
+        name:'Salesforce AI Associate',
+        imageUrl:'https://cdn.worldvectorlogo.com/logos/salesforce-2.svg',
+        url:'5066075',
+        exp:'NULL',
         link:''
     }
     
@@ -162,22 +170,30 @@ export const workDetail=[
 ]
 
 export const portfolio=[
+    {
+        id:1,
+        title:'Full Stack E-Commerce App',
+        type:'website',
+        desc:"Developed a full-stack e-commerce application using the MERN stack, incorporating role-based access control, JWT authentication, real-time ordering, and add-to-cart functionalities. Built with React, Tailwind CSS, Node.js, and Express to deliver a smooth and responsive user experience.",
+        imageUrl:"https://idapgroup.com/blog/blog/wp-content/uploads/2020/12/image1.png",
+        link:''
+    },
    {
        id:1,
        title:'Video Podcast App',
        type:'website',
        desc:"Developed a feature-rich video podcast application using ReactJS for the UI and Node.js for the server side; optimized cloud storage, leading to a 30% decrease in data retrieval times for users and launched an intuitive user interface for video content management, allowing seamless uploads and organization",
        imageUrl:"https://cdn.prod.website-files.com/615243a00511f95546e9f148/634e26a4e27c303b5b22c3b2_20201023_RadioStationGrew2000-ImageOnly_aa01152f4fd0063441e471d910e0c300_1000.jpeg",
-       link:'https://mosin23.github.io/podcastapp/'
+       link:'https://mosin-23.github.io/podcastapp/'
    },
    {
-       id:4,
-       title:'Weather Forecast App',
-       type:'website',
-       desc:"Developed a weather forecast application using ReactJS, providing real-time weather updates for every users city with a sleek and responsive user interface. This setup ensures a smooth and intuitive user experience.",
-       imageUrl:"https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/Google-Weather-icon.png",
-       link:'https://mosin23.github.io/ForecastApp/'
-   },
+    id:4,
+    title:'Weather Forecast App',
+    type:'website',
+    desc:"Developed a weather forecast application using ReactJS, providing real-time weather updates for every users city with a sleek and responsive user interface. This setup ensures a smooth and intuitive user experience.",
+    imageUrl:"https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/Google-Weather-icon.png",
+    link:'https://mosin-23.github.io/ForecastApp/'
+},
    {
        id:2,
        title:'Banking Application',
@@ -215,7 +231,7 @@ export const socialNetwork=[
    {
        id:1,
        logo:"https://icones.pro/wp-content/uploads/2021/06/icone-github-grise.png",
-       url:'https://github.com/mosin23',
+       url:'https://github.com/mosin-23',
    },
    {
        id:1,
