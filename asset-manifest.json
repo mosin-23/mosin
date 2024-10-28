@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/mosin/static/css/main.2445bb35.css",
+    "main.js": "/mosin/static/js/main.2a45ae72.js",
+    "static/media/homeImage.png": "/mosin/static/media/homeImage.3d95f6590f70693b6ba6.png",
+    "static/media/contactusbg.png": "/mosin/static/media/contactusbg.763a3c4a9285409abd28.png",
+    "static/media/python.png": "/mosin/static/media/python.82efb64f8698a267f8bf.png",
+    "static/media/MK-31280.pdf": "/mosin/static/media/MK-31280.d0a5331e34156e6ec8cf.pdf",
+    "static/media/react.png": "/mosin/static/media/react.49b190cfcec53572a139.png",
+    "static/media/boot.png": "/mosin/static/media/boot.35e6674a190838c83fe5.png",
+    "static/media/robo.png": "/mosin/static/media/robo.da55497fb34f0d883d69.png",
+    "static/media/book.png": "/mosin/static/media/book.803e11196b58a40a7a29.png",
+    "static/media/klu.png": "/mosin/static/media/klu.16bea5c34e341225ec4f.png",
+    "static/media/phone.png": "/mosin/static/media/phone.4f979ce3daf3b3a78f40.png",
+    "static/media/laptop.png": "/mosin/static/media/laptop.ad552bd57dde4e9e1134.png",
+    "static/media/mongo1.png": "/mosin/static/media/mongo1.bf8042403d8797a7ff1b.png",
+    "static/media/skill.png": "/mosin/static/media/skill.b9c82d5884078609fc2b.png",
+    "static/media/html.png": "/mosin/static/media/html.d69145e03f376e3c116c.png",
+    "static/media/mk.png": "/mosin/static/media/mk.83f85d76dac61ba2cbdd.png",
+    "static/media/aws.png": "/mosin/static/media/aws.b8fdefd1081d64668204.png",
+    "static/media/ex.png": "/mosin/static/media/ex.71e63a1d04588d0ffe9b.png",
+    "index.html": "/mosin/index.html",
+    "static/media/wave.svg": "/mosin/static/media/wave.e42ddec972c9ec214abc0ac6e8439ee4.svg",
+    "main.2445bb35.css.map": "/mosin/static/css/main.2445bb35.css.map",
+    "main.2a45ae72.js.map": "/mosin/static/js/main.2a45ae72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2445bb35.css",
+    "static/js/main.2a45ae72.js"
+  ]
+}
