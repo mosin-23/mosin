@@ -199,7 +199,7 @@ export const portfolio=[
        title:'Banking Application',
        type:'mobile',
        desc:"Build an efficient money transfer application using the java springboot and it's included it's various security features",
-       imageUrl:"https://media.licdn.com/dms/image/v2/D5612AQHUzRiGSZ9sXQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1693374555867?e=1730937600&v=beta&t=QuCmRClfdvKqClsyXr2PJnZ8YQyA3yOf1AWkl5ka8Jo"
+       imageUrl:"https://www.addevice.io/storage/ckeditor/uploads/images/637ba22ed92a7_how.to.create.a.banking.app.step.by.step.guide.1920.1080.1.png"
    },
 ]
 
