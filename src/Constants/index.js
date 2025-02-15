@@ -51,6 +51,13 @@ export const Certificates=[
         url:'5066075',
         exp:'NULL',
         link:''
+    },
+        {
+        name:'WIPRO JAVA FULL STACK CERTIFICATION',
+        imageUrl:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL2a418p8twUZDZKHOggy9fkZSrnxyUZw6Bg&s',
+        url:'',
+        exp:'NULL',
+        link:'https://cert.diceid.com/cid/jKYiTcJadH'
     }
     
 ]
@@ -176,7 +183,15 @@ export const portfolio=[
         type:'website',
         desc:"Developed a full-stack e-commerce application using the MERN stack, incorporating role-based access control, JWT authentication, real-time ordering, and add-to-cart functionalities. Built with React, Tailwind CSS, Node.js, and Express to deliver a smooth and responsive user experience.",
         imageUrl:"https://idapgroup.com/blog/blog/wp-content/uploads/2020/12/image1.png",
-        link:''
+        link:'https://mosin-shop.vercel.app'
+    },
+    {
+        id:2,
+        title:'BLOG Application',
+        type:'website',
+        desc:"A MERN stack blog application with a clean and responsive UI, allowing users to explore and read engaging blog posts seamlessly.",
+        imageUrl:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF7VDnC5Gouxl9ztle97cpqjACftrCPzfl9A&s",
+        link:'https://kalyanblogs.vercel.app/'
     },
    {
        id:1,
