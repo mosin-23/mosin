@@ -26,7 +26,7 @@ export const AppText={
    CompaniesI:'Global Certifications',
    Contact:'Contact ',
    Us:'Us',
-   copywriteText:'Copyright by Mosin Khan @2024'
+   copywriteText:'Copyright by Mosin Khan @2025'
 
 }
 
@@ -187,14 +187,23 @@ export const portfolio=[
     },
     {
         id:2,
+        title:'HEALTHHEAL Application',
+        type:'website',
+desc: "A cloud-powered health application for managing medical records, appointments, and real-time health insights, delivering a secure and user-friendly healthcare experience.",
+        imageUrl:"https://i.ibb.co/gZ2X77cY/Screenshot-2025-04-25-191544.png",
+        link:'https://healthcloud-klu.vercel.app/'
+    },
+
+     {
+        id:3,
         title:'BLOG Application',
         type:'website',
         desc:"A MERN stack blog application with a clean and responsive UI, allowing users to explore and read engaging blog posts seamlessly.",
-        imageUrl:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF7VDnC5Gouxl9ztle97cpqjACftrCPzfl9A&s",
-        link:'https://kalyanblogs.vercel.app/'
+        imageUrl:"https://i.ibb.co/SD2X0Ks8/Screenshot-2025-06-16-075339.png",
+        link:'https://www.vkalyan.space/'
     },
    {
-       id:1,
+       id:4,
        title:'Video Podcast App',
        type:'website',
        desc:"Developed a feature-rich video podcast application using ReactJS for the UI and Node.js for the server side; optimized cloud storage, leading to a 30% decrease in data retrieval times for users and launched an intuitive user interface for video content management, allowing seamless uploads and organization",
@@ -202,7 +211,7 @@ export const portfolio=[
        link:'https://mosin-23.github.io/podcastapp/'
    },
    {
-    id:4,
+    id:5,
     title:'Weather Forecast App',
     type:'website',
     desc:"Developed a weather forecast application using ReactJS, providing real-time weather updates for every users city with a sleek and responsive user interface. This setup ensures a smooth and intuitive user experience.",
@@ -210,11 +219,11 @@ export const portfolio=[
     link:'https://mosin-23.github.io/ForecastApp/'
 },
    {
-       id:2,
+       id:6,
        title:'Banking Application',
        type:'mobile',
        desc:"Build an efficient money transfer application using the java springboot and it's included it's various security features",
-       imageUrl:"https://www.addevice.io/storage/ckeditor/uploads/images/637ba22ed92a7_how.to.create.a.banking.app.step.by.step.guide.1920.1080.1.png"
+       imageUrl:"https://www.origin.bank/userfiles/blog/OGB-MobileApp-Blog-01.png"
    },
 ]
 
