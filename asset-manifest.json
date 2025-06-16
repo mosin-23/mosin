@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mosin/static/css/main.2445bb35.css",
-    "main.js": "/mosin/static/js/main.06a94cb0.js",
+    "main.js": "/mosin/static/js/main.9711b5e6.js",
     "static/media/homeImage.png": "/mosin/static/media/homeImage.3d95f6590f70693b6ba6.png",
     "static/media/contactusbg.png": "/mosin/static/media/contactusbg.763a3c4a9285409abd28.png",
     "static/media/python.png": "/mosin/static/media/python.82efb64f8698a267f8bf.png",
@@ -22,10 +22,10 @@
     "index.html": "/mosin/index.html",
     "static/media/wave.svg": "/mosin/static/media/wave.e42ddec972c9ec214abc0ac6e8439ee4.svg",
     "main.2445bb35.css.map": "/mosin/static/css/main.2445bb35.css.map",
-    "main.06a94cb0.js.map": "/mosin/static/js/main.06a94cb0.js.map"
+    "main.9711b5e6.js.map": "/mosin/static/js/main.9711b5e6.js.map"
   },
   "entrypoints": [
     "static/css/main.2445bb35.css",
-    "static/js/main.06a94cb0.js"
+    "static/js/main.9711b5e6.js"
   ]
 }
